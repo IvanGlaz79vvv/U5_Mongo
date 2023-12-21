@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6582a707272088e352742456"
+  },
+  "EMPLOYE_ID": 100,
+  "FIRST_NAME": "Steven",
+  "LAST_NAME": "King",
+  "EMAIL": "SKmG",
+  "PHONE_NUMBER": "5 15 123 4567",
+  "HIRE_DATE": {
+    "$date": "1987-06-17T00:00:00.000Z"
+  },
+  "JOB_ID": "AD_PRES",
+  "SALARY": 24000,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e352742457"
+  },
+  "EMPLOYE_ID": 101,
+  "FIRST_NAME": "Neena",
+  "LAST_NAME": "ochh ar",
+  "EMAIL": "NKOCHHAR",
+  "PHONE_NUMBER": "5 151 234 568",
+  "HIRE_DATE": {
+    "$date": "1987-06-18T00:00:00.000Z"
+  },
+  "JOB_ID": "AD_VP",
+  "SALARY": 17000,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e352742458"
+  },
+  "EMPLOYE_ID": 102,
+  "FIRST_NAME": "lex",
+  "LAST_NAME": "De Haan",
+  "EMAIL": "LDEHAAN",
+  "PHONE_NUMBER": "5 151 234 569",
+  "HIRE_DATE": {
+    "$date": "1987-06-19T00:00:00.000Z"
+  },
+  "JOB_ID": "AD_VP",
+  "SALARY": 17000,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e352742459"
+  },
+  "EMPLOYE_ID": 103,
+  "FIRST_NAME": "Alexander",
+  "LAST_NAME": "Hunold",
+  "EMAIL": "AHUNO LD",
+  "PHONE_NUMBER": "5 904 234 567",
+  "HIRE_DATE": {
+    "$date": "1987-06-20T00:00:00.000Z"
+  },
+  "JOB_ID": "IT_PROG",
+  "SALARY": 9000,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e35274245a"
+  },
+  "EMPLOYE_ID": 104,
+  "FIRST_NAME": "Bruce",
+  "LAST_NAME": "Ernst",
+  "EMAIL": "BERl ST",
+  "PHONE_NUMBER": "5 904 234 568",
+  "HIRE_DATE": {
+    "$date": "1987-06-21T00:00:00.000Z"
+  },
+  "JOB_ID": "IT_PROG",
+  "SALARY": 6000,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e35274245b"
+  },
+  "EMPLOYE_ID": 105,
+  "FIRST_NAME": "David",
+  "LAST_NAME": "Austin",
+  "EMAIL": "DAUSTIN",
+  "PHONE_NUMBER": "5 904 234 569",
+  "HIRE_DATE": {
+    "$date": "1987-06-22T00:00:00.000Z"
+  },
+  "JOB_ID": "IT_PROG",
+  "SALARY": 4800,
+  "COMISSION_PCT": 0
+},
+{
+  "_id": {
+    "$oid": "6582a707272088e35274245c"
+  },
+  "EMPLOYE_ID": 106,
+  "FIRST_NAME": "Valli",
+  "LAST_NAME": "Pataballa",
+  "EMAIL": "VPATABA L",
+  "PHONE_NUMBER": "5 904 234 560",
+  "HIRE_DATE": {
+    "$date": "1987-06-23T00:00:00.000Z"
+  },
+  "JOB_ID": "IT PROG",
+  "SALARY": 4800,
+  "COMISSION_PCT": 0
+}]
